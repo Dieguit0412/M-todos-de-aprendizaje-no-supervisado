@@ -14,7 +14,7 @@ Este proyecto aplica técnicas de **aprendizaje automático no supervisado** par
 ---
 
 ## 🗂️ Estructura del repositorio
-
+transmilenio-clustering/ │ ├── Estaciones_Troncales_de_TRANSMILENIO.geojson # Fuente de datos ├── transmilenio_clustering.ipynb # Notebook con el análisis completo ├── README.md # Descripción del proyecto
 
 ---
 
